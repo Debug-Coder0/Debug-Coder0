@@ -1,6 +1,6 @@
 # Hey, I'm Nadir 👋
 
-Computer Science (AI) undergrad building full-stack web apps with the **MERN stack**, RESTful APIs, and ML-powered services — from React frontends to Node.js backends. Currently a **Google Student Ambassador**, previously an **AI Research Intern @ Punjab Engineering College**.
+Computer Science (AI) undergrad building full-stack web apps with the **MERN stack**, RESTful APIs, and ML-powered services — from React frontends to Node.js backends. Currently a **SDE Inter @ Aikas Network**, previously an **AI Research Intern @ Punjab Engineering College**.
 B.Tech in Computer Science (AI) @ RIMT University, graduating 2027.
 
 ---
